@@ -45,3 +45,6 @@ An interactive web interface was developed using Flask. The app allows users to 
 - index.html
 
 Features include dropdowns for categorical fields like gender, subscription type, and contract length, making the interface user-friendly.
+
+Run the Flask app:
+python app.py
